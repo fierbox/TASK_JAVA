@@ -2,7 +2,7 @@ package task3;
 
 import java.io.*;
 
-public class task3 {
+public class Task3 {
     public static void main(String[] args) throws IOException {
         double[] cash = new double[16];  //array of sum values of each cash
         double[][] nums = new double[16][16]; // array of introduced data for all cash
